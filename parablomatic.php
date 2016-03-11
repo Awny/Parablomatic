@@ -1,8 +1,18 @@
 <!DOCTYPE html>
 <html>
-    <head><title>Parabolomatic</title></head>
+    <head>
+        <link rel="stylesheet" href="parabolamatic.css"/>
+        <title>Parabolomatic</title>
+    </head>
     <body>
-    <h3>Parabola Finder</h3>
+     <div id="head">   
+      <h1>Parabolamatic</h1>
+      <a href="">about</a>
+      <a href="">Parabola finder</a>
+      <a href="">Line finder</a>
+     </div>
+     <div id="content">
+      <h3>Parabola Finder</h3>
         <form  attribute=POST method = POST>
         <table>
             <tr>
@@ -39,6 +49,6 @@
         
         
     ?>    
-        
+     </div>    
     </body>
 </html>
