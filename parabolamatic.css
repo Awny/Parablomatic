@@ -1,0 +1,76 @@
+#head{
+background-color: #000000;
+margin-top: -20px;
+margin-bottom: 20px;
+border: 1px solid black;
+}
+
+#head p{
+text-align: center;
+font-family: Helvetica;
+font-size: 30px;
+color: #585858;
+}
+
+#head a:link{
+position: inline-block;
+text-align: center;
+font-family: Helvetica;
+font-size: 14px;
+text-decoration: none;
+color: #585858;
+}
+
+#head a:visited{
+position: inline-block;
+text-align: center;
+font-family: Helvetica;
+font-size: 14px;
+text-decoration: none;
+color: #585858;
+}
+
+#head a:hover{
+position: inline-block;
+text-align: center;
+font-family: Helvetica;
+font-size: 14px;
+text-decoration: underline;
+color: #A4A4A4;
+}
+
+#content{
+background-color: #585858;
+}
+
+#content .title_art{
+text-align: left;
+font-family: Helvetica;
+font-size: 20px;
+margin-left: 10px;
+color: #BDBDBD;
+}
+
+#content p{
+text-align: left;
+font-family: Helvetica;
+font-size: 12px;
+margin-left: 10px;
+color: #E6E6E6;
+}
+
+#content a:link{
+text-align: left;
+font-family: Helvetica;
+font-size: 12px;
+text-decoration: none;
+color: #E6E6E6;
+}
+
+#content a:visited{
+text-align: left;
+font-family: Helvetica;
+font-size: 12px;
+text-decoration: none;
+color: #E6E6E6;
+}
