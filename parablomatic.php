@@ -12,7 +12,7 @@
       <a href="">Line finder</a>
      </div>
      <div id="content">
-      <p>Parabola Finder</p>
+      <p class="title_art">Parabola Finder</p>
         <form  attribute=POST method = POST>
         <table>
             <tr>
