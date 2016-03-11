@@ -6,13 +6,13 @@
     </head>
     <body>
      <div id="head">   
-      <h1>Parabolamatic</h1>
+      <p>Parabolamatic</p>
       <a href="">about</a>
       <a href="">Parabola finder</a>
       <a href="">Line finder</a>
      </div>
      <div id="content">
-      <h3>Parabola Finder</h3>
+      <p>Parabola Finder</p>
         <form  attribute=POST method = POST>
         <table>
             <tr>
