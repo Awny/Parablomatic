@@ -1,7 +1,7 @@
 <DOCTYPE html>
 <html>
     <head>
-        <link rel="stylesheet" href="parablomatic.css">
+        <link rel="stylesheet" href="parablomatic.css"/>
         <title>Finding Roots</title>
     </head>
     <body>
