@@ -50,11 +50,11 @@
    <a href="intercepts_eq.html">Finding equations with x intercepts</a>
    <a href="vertex_eq.html">Finding equations with vertex</a>
    <p>Check out the other lessons!</p>
-   <a href="">Standard form</a>
-   <a href="">Vertex and vertex form</a>
-   <a href="">X intercepts and factored form</a>
-   <a href="">Finding the x intercepts</a>
-   <a href="">Domain and range</a>
+   <a href="standard_from.html">Standard form</a>
+   <a href="vertex_form.html">Vertex and vertex form</a>
+   <a href="Factored_form.html">X intercepts and factored form</a>
+   <a href="root_finder.html">Finding the x intercepts</a>
+   <a href="domain.html">Domain and range</a>
   </div>   
  </body>
 </html>
