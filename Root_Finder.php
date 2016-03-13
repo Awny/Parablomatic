@@ -44,6 +44,11 @@ echo substr($x1,0,5);
 echo substr($x2,0,6);
         
         ?>
+        <a href="standard_from.html">Standard form</a>
+        <a href="vertex_form.html">Vertex and vertex form</a>
+        <a href="Factored_form.html">X intercepts and factored form</a>
+        <a href="domain.html">Domain and range</a>
+        <a href="find_equations.html">Finding the equation of parabolas</a>
      </div>    
     </body>
 </html>
