@@ -54,7 +54,7 @@
    <a href="">Vertex and vertex form</a>
    <a href="">X intercepts and factored form</a>
    <a href="">Finding the x intercepts</a>
-   <a href="">Domain and range</>
+   <a href="">Domain and range</a>
   </div>   
  </body>
 </html>
