@@ -1,10 +1,15 @@
 <DOCTYPE html>
 <html>
     <head>
+        <link rel="stylesheet" href="parablomatic.css"/>
         <title>Standard Form</title>
     </head>
     <body>
-        <h3> Standard Form</h3>
+     <div id="header">
+      <a href="parablomatic.html">Parablomatic</a>     
+     </div>
+     <div id="content">
+        <p class="title"> Standard Form</p>
        <p> f(x) = ax<sup>2</sup> + bx + c</p>
         <p> "a" cannot be 0, because of it was this would not be a quadratic function, rather a linear function. (bx + c)</p>
         <p>This is the standard form of a quadratic function. Using standard form has two main benifits. First, it clearly shows the y-intercept. And second, it is great for use in the quadratic equation as it has values a, b, c. <br /><a href="root_finder.html"><strong> See Finding Roots of a Quadratic here.</strong></a></p>
@@ -31,6 +36,6 @@
     ?>
       <p>The "a" value corresponds to the horizontal dialation of the parabola. If the "a" value is positive, the parabola opens upwards, uf it is negative, the parabola opens downwards.</p>
         <p> The "b" value affect the placement of the vertex</p>
-        
+         </div>
         </body>
     </html>
