@@ -37,13 +37,13 @@
    <?php
     $answer=$_POST['answer'];
     if ($answer == "y=(x+1)(x-3)") {
-        echo "Correct! Well done!"
+        echo "Correct! Well done!";
     } elseif ($answer == "y=(x-3)(x+1)"){
-        echo "Correct! Well done!"
+        echo "Correct! Well done!";
     } elseif ($answer == "y=(x-1)^2-4"){
-        echo "Correct! Well done!"
+        echo "Correct! Well done!";
     } else {
-        echo "Incorrect! Try again!"
+        echo "Incorrect! Try again!";
     }
    ?>
    <p>You can also try out the following equation finders!</p>
