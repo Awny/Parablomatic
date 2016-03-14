@@ -15,7 +15,7 @@
         <p>This is the standard form of a quadratic function. Using standard form has two main benifits. First, it clearly shows the y-intercept. And second, it is great for use in the quadratic equation as it has values a, b, c. <br /><a href="root_finder.html"><strong> See Finding Roots of a Quadratic here.</strong></a></p>
         <p>c in this equation is the y-intercept. It is the point where the Parabola intersects with the y-axis. Changing the y-intecept will translate the graph vertically.</p>
         <p> Insert the y-intercept of this graph into thre quadratic function</p>
-        <img src="http://craiga.id.au/misc/parabola.png">
+        <img src="http://craiga.id.au/misc/parabola.png"/>
 <form method = "post" action="standard_form.php">
         <table>
             <tr>
