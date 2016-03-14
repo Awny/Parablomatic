@@ -10,9 +10,9 @@
   <div id="content">
    <p class="title"> Factored(Intercept) Form</p>
    <p>The factored form of a quadratic, is as it states: The quadratic, factored. Factored form is useful for when solving for the roots of the quadratic. It can also have particular uses when being compared to other functions as you can factor out a particular expression.</p>
-   <img width=200 src="http://latex.codecogs.com/png.latex?y%5C,=%5C,a(x-p)(x-q)">
+   <img width=200 src="http://latex.codecogs.com/png.latex?y%5C,=%5C,a(x-p)(x-q)"/>
    <p>To find the factored form of a quadratic, simply factor it, using any methods you know.</p>
-   <img src="https://www.mathsisfun.com/algebra/images/expand-vs-factor-quadratic.gif">
+   <img src="https://www.mathsisfun.com/algebra/images/expand-vs-factor-quadratic.gif"/>
    <p class="title">Practice:</p>
    <p>Find the factored form of the following quadratic function.</p>
    <p class="title">f(x)=-2x<sup>2</sup>+6x+80</p>
