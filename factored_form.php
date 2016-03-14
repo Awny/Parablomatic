@@ -22,7 +22,11 @@
         </Form>
         <?php
             $answer = $_POST['answer'];
-            if($answer =="2(x+5)(x-8)"){echo"Correct! Well done!";}else{echo"sorry, wrong answer. try again!";};
+            if($answer =="2(x+5)(x-8)"){
+                echo"Correct! Well done!";
+            } else {
+                echo"sorry, wrong answer. try again!";
+            };
         ?>
          <a href="standard_from.html">Standard form</a>
          <a href="vertex_form.html">Vertex and vertex form</a>
