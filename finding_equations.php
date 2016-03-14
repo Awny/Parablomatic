@@ -6,7 +6,7 @@
  </head>
  <body>
   <div id="header">
-   <a href="parabolamatic.html">Parablomatic</a>
+   <a href="parablomatic.html">Parablomatic</a>
   </div>
   <div id="content">
    <p class="title">Finding the equations of parabolas</p>
