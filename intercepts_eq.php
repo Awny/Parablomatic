@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
  <head>
-  <link rel="stylesheet" href="parabolamatic.css">
+  <link rel="stylesheet" href="parabolamatic.css"/>
   <title>Parablomatic</title>
  </head>
  <body>
