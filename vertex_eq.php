@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
  <head>
-  <link rel="stylesheet" href="parabolamatic.css">
+  <link rel="stylesheet" href="parabolamatic.css"/>
   <title>Parablomatic</title>
  </head>
  <body>
@@ -23,8 +23,8 @@
     $y1 = $_POST['x1'];
     $x2 = $_POST['x2'];
     $y2 = $_POST['y2'];
-    $var1 = ($x2-$x1)^2
-    $a1 = ($y1-$y2)/($var1)
+    $var1 = ($x2-$x1)^2;
+    $a1 = ($y1-$y2)/($var1);
     if ($a1 == 1){
         echo 'y=(x-'.$x1.')^2+'.$y1.;
     } elseif ($a1 == -1){  
