@@ -47,11 +47,12 @@
         echo "Incorrect! Try again!";
     }          
    ?>
+   <br />
    <a href="standard_from.html">Standard form</a>
    <a href="vertex_form.html">Vertex and vertex form</a>
    <a href="Factored_form.html">X intercepts and factored form</a>
    <a href="root_finder.html">Finding the x intercepts</a>
-   <a href="find_equations.html">Finding the equation of parabolas</a>
+   <a href="finding_equations.html">Finding the equation of parabolas</a>
   </div>   
  </body>
 </html>

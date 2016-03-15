@@ -34,13 +34,14 @@
             
             if($c ==1){echo"Excellent. Go on";}else{echo"sorry wrong answer, try again";};
     ?>
+	<br />
       <p>The "a" value corresponds to the horizontal dialation of the parabola. If the "a" value is positive, the parabola opens upwards, uf it is negative, the parabola opens downwards.</p>
         <p> The "b" value affect the placement of the vertex</p>
              <a href="vertex_form.html">Vertex and vertex form</a>
              <a href="Factored_form.html">X intercepts and factored form</a>
              <a href="root_finder.html">Finding the x intercepts</a>
              <a href="domain.html">Domain and range</a>
-             <a href="find_equations.html">Finding the equation of parabolas</a>
+             <a href="finding_equations.html">Finding the equation of parabolas</a>
          </div>
         </body>
     </html>

@@ -46,6 +46,7 @@
         echo "Incorrect! Try again!";
     }
    ?>
+   <br />
    <p>You can also try out the following equation finders!</p>
    <a href="intercepts_eq.html">Finding equations with x intercepts</a>
    <a href="vertex_eq.html">Finding equations with vertex</a>
