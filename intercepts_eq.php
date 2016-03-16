@@ -18,7 +18,7 @@
     <input type="text" class="y1" id="y1" placeholder="Y coordinate third point"><br>
     <input type="submit">
    </form>
-   <?php
+   <span id=php><?php
     $x1 = $_POST['x1'];
     $x2 = $_POST['x2'];
     $x3 = $_POST['x3'];
@@ -32,7 +32,7 @@
     } else {
         echo 'y='.$a1.'(x-'.$x1.')(x-'.$x2.')';
     }
-   ?>
+       ?></span>
    <br />
   </div>
  </body>

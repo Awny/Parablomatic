@@ -23,7 +23,7 @@
         -1(x-<input type=text name=h id=h placeholder="h">)<sup>2</sup>+<input type="text" name="k" id="k" placeholder="k">
             <input type="submit">
         </Form>
-        <?php
+        <span id=php><?php
             $h = $_POST['h'];
             $k = $_POST['k'];
             if($h == "1")
@@ -33,7 +33,7 @@
             else{echo"sorry wrong answer. Try again!";}
         
           
-        ?>
+            ?></span>
 		<br />
         <a href="standard_from.html">Standard form</a>
         <a href="Factored_form.html">X intercepts and factored form</a>

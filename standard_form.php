@@ -26,14 +26,14 @@
         </table>
             <input type=submit>
         </form>
-        <?php 
+        <span id=php><?php 
             $c = $_POST['c'];
             echo "ax <sup>2</sup> + bx +";
             echo ($c);
             echo "<br/>";
             
             if($c ==1){echo"Excellent. Go on";}else{echo"sorry wrong answer, try again";};
-    ?>
+            ?></span>
 	<br />
       <p>The "a" value corresponds to the horizontal dialation of the parabola. If the "a" value is positive, the parabola opens upwards, uf it is negative, the parabola opens downwards.</p>
         <p> The "b" value affect the placement of the vertex</p>

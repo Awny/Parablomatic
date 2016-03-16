@@ -31,19 +31,20 @@
             <input type=submit>
         </form>
     
-        <?php
+       <span id=php> <?php
 $a = $_POST['a'];
 $b = $_POST['b'];
 $c = $_POST['c'];
 $x1 = (-$b + sqrt($b*$b - (4*$a*$c))) / (2 * $a);
 $x2 = (-$b - sqrt($b*$b - (4*$a*$c))) / (2 * $a);
         
-echo"The roots are: ";
+echo'The roots are:';
 echo substr($x1,0,5);
         echo ", ";
 echo substr($x2,0,6);
         
         ?>
+        </span>
         <br />
         <a href="standard_from.html">Standard form</a>
         <a href="vertex_form.html">Vertex and vertex form</a>

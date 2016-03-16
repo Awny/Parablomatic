@@ -32,7 +32,7 @@
     <input type="text" name="range" id="range" placeholder="y such that..."> <br>
     <input type="submit">
    </form>
-   <?php
+   <span id=php><?php
     $domain = $_POST['domain'];
     $range = $_POST['range'];
     
@@ -47,6 +47,7 @@
         echo "Incorrect! Try again!";
     }          
    ?>
+      </span>
    <br />
    <a href="standard_from.html">Standard form</a>
    <a href="vertex_form.html">Vertex and vertex form</a>

@@ -34,7 +34,7 @@
     <input type="text" class="answer" id="answer" placeholder="y=...">
     <input type="submit">
    </form>
-   <?php
+   <span id=php><?php
     $answer=$_POST['answer'];
     if ($answer == "y=(x+1)(x-3)") {
         echo "Correct! Well done!";
@@ -45,7 +45,7 @@
     } else {
         echo "Incorrect! Try again!";
     }
-   ?>
+   ?><span id=php>
    <br />
    <p>You can also try out the following equation finders!</p>
    <a href="intercepts_eq.html">Finding equations with x intercepts</a>
